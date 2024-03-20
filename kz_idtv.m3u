@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="STSInternational.ru",СТС International
+http://89.106.234.4:80/STS.m3u8
+#EXTINF:-1 tvg-id="ChannelOneCIS.ru",Первый канал СНГ
+http://89.106.234.4:80/1KanalVsemSet.m3u8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru",РТР-Планета
+http://89.106.234.4:80/RossiyaRTR.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru",Россия-24
+http://89.106.234.4:80/Rossiya24.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru",Россия-K
+http://89.106.234.4:80/RossiyaK.m3u8
+#EXTINF:-1 tvg-id="KuhnyaTV.ru",Кухня ТВ
+http://89.106.234.4:80/kuhnya_hd.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru",ТiJi
+http://89.106.234.4:80/TiJi.m3u8
+#EXTINF:-1 tvg-id="GulliGirl.ru",Gulli Girl
+http://89.106.234.4:80/Gulli.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru",Cinema
+http://89.106.234.4:80/Cinema.m3u8
+#EXTINF:-1 tvg-id="T24.ru",T24
+http://89.106.234.4:80/Tehno24.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru",Победа
+http://89.106.234.4:80/Pobeda.m3u8
+#EXTINF:-1 tvg-id="O.ru",O!
+http://89.106.234.4:80/o.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru",Дом кино
+http://89.106.234.4:80/DomKino.m3u8
+#EXTINF:-1 tvg-id="DomkinoPremium.ru",Дом кино Премиум
+http://89.106.234.4:80/domkino_hd.m3u8
+#EXTINF:-1 tvg-id="Vremya.ru",Время
+http://89.106.234.4:80/Vremya.m3u8
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru",Музыка Первого
+http://89.106.234.4:80/MuzikaPervogo.m3u8
+#EXTINF:-1 tvg-id="Mult.ru",Мульт
+http://89.106.234.4:80/Mult.m3u8
+#EXTINF:-1 tvg-id="BoksTV.ru",Бокс ТВ
+http://89.106.234.4:80/BoksTV.m3u8
+#EXTINF:-1 tvg-id="Poehali.ru",Поехали!
+http://89.106.234.4:80/poehali.m3u8
+#EXTINF:-1 tvg-id="Avto24.ru",Авто 24
+http://89.106.234.4:80/Avto24.m3u8
+#EXTINF:-1 tvg-id="Okhotairybalka.ru",Охота и рыбалка
+http://89.106.234.4:80/Ribalka_Ohota.m3u8
+#EXTINF:-1 tvg-id="RusskiyIllusionInternationalversion.ru",Русский иллюзион. Международная версия
+http://89.106.234.4:80/RusIlluzion.m3u8
+#EXTINF:-1 tvg-id="IllusionPlus.ru",Иллюзион+
+http://89.106.234.4:80/IlluzionPlus.m3u8
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru",Extreme Sports
+http://89.106.234.4:80/ExtremeSportsHD.m3u8
+#EXTINF:-1 tvg-id="Bober.ru",Бобер
+http://89.106.234.4:80/bober.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru",Телекафе
+http://89.106.234.4:80/Telecafe.m3u8
+#EXTINF:-1 tvg-id="FlixSnip.ru",FlixSnip
+http://89.106.234.4:80/FlixSnip.m3u8
+#EXTINF:-1 tvg-id="Muzhskoy.ru",Мужской
+http://89.106.234.4:80/Mujskoi.m3u8
+#EXTINF:-1 tvg-id="NST.ru",НСТ
+http://89.106.234.4:80/NSTV.m3u8
+#EXTINF:-1 tvg-id="EdaPremiumInternational.ru",Еда
+http://89.106.234.4:80/EdaHD.m3u8
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru",Моя Планета
+http://89.106.234.4:80/MoyaPlaneta.m3u8
+#EXTINF:-1 tvg-id="CarouselInternational.ru",Карусель International
+http://89.106.234.4:80/Karusel.m3u8
+#EXTINF:-1 tvg-id="RENTVInternational.ru",РЕН ТВ International
+http://89.106.234.4:80/RenTV.m3u8
+#EXTINF:-1 tvg-id="Mir.ru",Мир
+http://89.106.234.4:80/Mir.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru",Мир 24
+http://89.106.234.4:80/Mir24.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru",МMA-TV.com
+http://89.106.234.4:80/M-1.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr",Euronews
+http://89.106.234.4:80/Euronews.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru",РБК-ТВ
+http://89.106.234.4:80/RBK.m3u8
+#EXTINF:-1 tvg-id="NTVMir.ru",НТВ Мир
+http://89.106.234.4:80/NTV.m3u8
+#EXTINF:-1 tvg-id="FridayInternational.ru",Пятница! International
+http://89.106.234.4:80/friday.m3u8
+#EXTINF:-1 tvg-id="TNTInternational.ru",THT International
+http://89.106.234.4:80/tntComedy.m3u8
+#EXTINF:-1 tvg-id="TNT4International.ru",THT4 International
+http://89.106.234.4:80/tnt4.m3u8
+#EXTINF:-1 tvg-id="MatchPlaneta.ru",Матч! Планета
+http://89.106.234.4:80/MatchPlaneta.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000.ru",viju TV1000
+http://89.106.234.4:80/TV1000.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000Action.ru",viju TV1000 Action
+http://89.106.234.4:80/TV1000Action.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru",viju TV1000 русское
+http://89.106.234.4:80/TV1000RuKino.m3u8
+#EXTINF:-1 tvg-id="vijuExplore.ru",viju Explore
+http://89.106.234.4:80/ViasatExplorer.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru",viju History
+http://89.106.234.4:80/ViasatHistory.m3u8
+#EXTINF:-1 tvg-id="vijuNature.ru",viju Nature
+http://89.106.234.4:80/ViasatNature.m3u8
+#EXTINF:-1 tvg-id="DaVinci.ru",Da Vinci
+http://89.106.234.4:80/DaVinci.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru",viju+ Sport
+http://89.106.234.4:80/ViasatSport.m3u8
+#EXTINF:-1 tvg-id="ChannelOneEurasia.kz",Первый канал Евразия (369p) [Not 24/7]
+http://89.106.234.4:80/1KanalEvraziya.m3u8
+#EXTINF:-1 tvg-id="Channel7Kazakhstan.kz",7 канал (576p) [Not 24/7]
+http://89.106.234.4:80/7_kanal.m3u8
+#EXTINF:-1 tvg-id="31Kanal.kz",31 канал (576p) [Not 24/7]
+http://89.106.234.4:80/31Kanal.m3u8
+#EXTINF:-1 tvg-id="AstanaTV.kz",Астана (576p) [Not 24/7]
+http://89.106.234.4:80/Astana.m3u8
+#EXTINF:-1 tvg-id="GakkuTV.kz",Gakku (576p) [Not 24/7]
+http://89.106.234.4:80/Gakku.m3u8
+#EXTINF:-1 tvg-id="HitTVChannel.kz",Hit TV Channel (404p)
+http://89.106.234.4:80/HitTV.m3u8
+#EXTINF:-1 tvg-id="AlmatyTV.kz",Алматы (576p) [Not 24/7]
+http://89.106.234.4:80/Almaty.m3u8
+#EXTINF:-1 tvg-id="ElArna.kz",Ел Арна (576p) [Not 24/7]
+http://89.106.234.4:80/ElArna.m3u8
+#EXTINF:-1 tvg-id="KTK.kz",КТК (576p) [Not 24/7]
+http://89.106.234.4:80/KTK.m3u8
+#EXTINF:-1 tvg-id="AtamekenBusiness.kz",Atameken Business (576p) [Not 24/7]
+http://89.106.234.4:80/Atameken.m3u8
+#EXTINF:-1 tvg-id="CaspianNews.kz",Caspian News (576p) [Not 24/7]
+http://89.106.234.4:80/CaspianNews.m3u8
